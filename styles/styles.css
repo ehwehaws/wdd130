@@ -1,0 +1,32 @@
+main {
+    max-width: 840px;
+    margin: 0 auto;
+}
+
+main img {
+    width: 150px;
+    height: auto;
+}
+
+aside {
+    width: 20rem;
+    margin: 1rem;
+    border: 1px solid #7a7676;
+    padding: 1rem;
+    background-color: #ffffff;
+    color: #7a7676;
+    text-align: center;
+}
+aside img {
+    width: 200px;
+    height: auto;
+}
+p {
+    padding: 0;
+}
+
+footer {
+    margin-top: 15px;
+    border-top: 1px solid black;
+    text-align: center;
+}
