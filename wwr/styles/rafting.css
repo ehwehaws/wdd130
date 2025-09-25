@@ -86,12 +86,12 @@ h1 {
 }
 
 section {
-    background-color: rgba(49, 49, 61, 0.7);
+    background-color: rgba(49, 49, 61, 0.85);
     border: 2px solid black;
     border-radius: 10px;
     padding: 2px 2px;
     margin: 20px 0;
     color: white;
-    opacity: 0.7;
+    opacity: 1;
     text-align: center;
 }
