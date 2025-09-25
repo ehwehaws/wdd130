@@ -84,3 +84,14 @@ h1 {
     color: white;
     text-align: left;
 }
+
+section {
+    background-color: rgba(49, 49, 61, 0.7);
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 2px 2px;
+    margin: 20px 0;
+    color: white;
+    opacity: 0.7;
+    text-align: center;
+}
